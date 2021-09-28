@@ -1,7 +1,7 @@
 # Multilingual Web Crawler
-Crawl Multi Language News Website Content like VovWorld, VNAnet, VietNamPlus, QuanDoiNhanDan etc
+Crawl Multilingual language News Website Content like VovWorld, VNAnet, VietNamPlus, QuanDoiNhanDan, etc
 
-This tools made by me with help of instructors **DR. Tran Hong Viet** (thviet79) and **masters Bui Van Tan**
+This tools made by me with help of instructors **Dr. Tran Hong Viet** (thviet79) and **masters Bui Van Tan**
 
 This tool is by for Window and Linux users, it purpose to crawl rare Language such as **Laotian, Khmer** and popular language like **Chinese, English** etc you can add more if you want
 
